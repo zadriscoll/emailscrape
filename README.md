@@ -1,4 +1,4 @@
-# Title: Extracting Emails from Websites Made Easy with Python Code
+# Extracting Emails from Websites Made Easy with Python Code
 
 # Introduction
 In today's digital age, email communication plays a vital role in both personal and professional spheres. Whether you're a business owner seeking to expand your network or an individual looking to connect with like-minded individuals, extracting email addresses from websites can be a tedious task. However, with the power of Python code, this process can be simplified and automated. In this article, we'll explore a Python code that can extract email addresses from any given website URL, saving you time and effort.
